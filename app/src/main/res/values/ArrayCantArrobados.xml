@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opcionesPersonas">
+        <item> Al menos 1 persona </item>
+        <item> Al menos 2 personas </item>
+        <item> Al menos 3 personas </item>
+    </string-array>
+
+</resources>
